@@ -18,7 +18,7 @@ else
 	exit 1
 fi
 
-rsync -avP -e ssh ${file} ${user}@frs.sourceforge.net:/home/frs/project/flokorom/v3/${device}
+#rsync -avP -e ssh ${file} ${user}@frs.sourceforge.net:/home/frs/project/flokorom/v3/${device}
 
 echo -e "upload is done! generate json..."
 

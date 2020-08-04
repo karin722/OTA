@@ -4,11 +4,11 @@
         "maintainer": "karin722",
         "oem": "OnePlus",
         "device": "enchilada",
-        "filename": "Floko-v3.0-enchilada-20200721_123629-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/flokorom/files/v3/enchilada/Floko-v3.0-enchilada-20200721_123629-OFFICIAL.zip/download",
-        "timestamp": 1595335859,
-        "md5": "1b9276d356294229341e071233225508",
-        "size": 586825024,
+        "filename": "Floko-v3.0-enchilada-20200801_112844-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/flokorom/files/v3/enchilada/Floko-v3.0-enchilada-20200801_112844-OFFICIAL.zip/download",
+        "timestamp": 1596282016,
+        "md5": "10e377ae709ce500f4de3be237a232ae",
+        "size": 585389307,
         "version": "3.0",
         "buildtype": "Official",
         "forum": "https://forum.xda-developers.com/oneplus-6/development/rom-flokorom-v3-0-t4097099",
@@ -17,7 +17,7 @@
         "modem": "",
         "bootloader": "",
         "recovery": "https://dl.twrp.me/enchilada/",
-        "paypal": "https://paypal.me/noirstrk",
+        "paypal": "paypal.me/noirstrk",
         "telegram": "https://t.me/karin722_x"
     }
   ]
